@@ -1,4 +1,4 @@
-baseurl                 = "achtung.es/"               # Your domain name. Must end with "/"
+baseurl                 = "alnacle.github.io/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Alvaro Navarro website"
 theme                   = "sam"
