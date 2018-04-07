@@ -2,7 +2,7 @@ baseurl                 = "achtung.es/"               # Your domain name. Must e
 languageCode            = "en-us"
 title                   = "Alvaro Navarro website"
 theme                   = "sam"
-# googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
+publishDir              = "docs"
 
 [params]
     dateform            = "Mon Jan 02, 2006"
